@@ -1,0 +1,14 @@
+D:\Sites\Methodlar\bin\Debug\net6.0\Methodlar.exe
+D:\Sites\Methodlar\bin\Debug\net6.0\Methodlar.deps.json
+D:\Sites\Methodlar\bin\Debug\net6.0\Methodlar.runtimeconfig.json
+D:\Sites\Methodlar\bin\Debug\net6.0\Methodlar.dll
+D:\Sites\Methodlar\bin\Debug\net6.0\Methodlar.pdb
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.AssemblyInfoInputs.cache
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.AssemblyInfo.cs
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.csproj.CoreCompileInputs.cache
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.dll
+D:\Sites\Methodlar\obj\Debug\net6.0\refint\Methodlar.dll
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.pdb
+D:\Sites\Methodlar\obj\Debug\net6.0\Methodlar.genruntimeconfig.cache
+D:\Sites\Methodlar\obj\Debug\net6.0\ref\Methodlar.dll
